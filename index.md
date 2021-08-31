@@ -12,7 +12,7 @@
 
 ### Python
 
-- [Data Wrangling, Segmenting and Clustering](https://github.com/PanzerFlow/Python-Projects/blob/main/Final%20Project%20Segmenting%20and%20Clustering%20Mining%20Towns%20in%20Canada.ipynb)
+- [Data Wrangling, Segmenting and Clustering](https://nbviewer.jupyter.org/github/PanzerFlow/Python-Projects/blob/main/Final%20Project%20Segmenting%20and%20Clustering%20Mining%20Towns%20in%20Canada.ipynb)
 <img src="images/Data Wrangling Segmenting and Clustering.png?raw=true"/>
 
 ---
