@@ -5,7 +5,7 @@
 ### SQL and PowerBI 
 
 [SQL - Data Exploration (AdventureWorks)](https://github.com/PanzerFlow/Portofolio/blob/main/SQL%20-%20Data%20Exploration%20(AdventureWorks).sql)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/InternetSalesTable.png?raw=true"/>
 
 ---
 
