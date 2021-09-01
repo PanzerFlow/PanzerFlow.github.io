@@ -4,7 +4,7 @@
 
 ### SQL and PowerBI 
 
-[Project 1 Title](/sample_page)
+[SQL - Data Exploration (AdventureWorks)](https://github.com/PanzerFlow/Portofolio/blob/main/SQL%20-%20Data%20Exploration%20(AdventureWorks).sql)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
