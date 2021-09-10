@@ -7,7 +7,7 @@
 - [SQL - Data Exploration (AdventureWorks)](https://github.com/PanzerFlow/Portofolio/blob/main/SQL%20-%20Data%20Exploration%20(AdventureWorks).sql)
 <img src="images/InternetSalesTable.PNG?raw=true" width="60%" height="60%" />
 
-<! - [PowerBI - Sales Dashboard](https://github.com/PanzerFlow/Portofolio/blob/main/SQL%20-%20Data%20Exploration%20(AdventureWorks).sql) >
+[PowerBI - Sales Dashboard (In Development)]()
 
 ---
 
