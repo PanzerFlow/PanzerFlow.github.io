@@ -5,8 +5,8 @@
 ### Data Engineering on AWS
 
 [Batch Data Processing with Python, Airflow and Spark (AWS EMR)](https://github.com/PanzerFlow/airflow_aws_spark)
-<img src="images/airflow_batch_architecture.png?raw=true" width="50%" height="50%" />
-<img src="images/airflow_dag.png?raw=true" width="50%" height="50%" />
+<img src="images/airflow_batch_architecture.png?raw=true" width="80%" height="50%" />
+<img src="images/airflow_dag.png?raw=true" width="80%" height="50%" />
 
 ---
 
