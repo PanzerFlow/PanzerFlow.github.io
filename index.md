@@ -20,7 +20,7 @@
 ### Serverless Compute
 
 [Using AWS Lambda for API data extraction](https://github.com/PanzerFlow/aws_lambda_reddit_api)
-<img src="https://github.com/PanzerFlow/PanzerFlow.github.io/edit/master/index.md" width="80%" height="50%" />
+<img src="https://github.com/PanzerFlow/aws_lambda_reddit_api/blob/main/img/Lambda.PNG" width="80%" height="50%" />
 
 ---
 
