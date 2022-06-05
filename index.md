@@ -4,9 +4,10 @@
 
 ### Batch Processing
 
-[Linkedin Jobs ETL (Batch)](https://github.com/PanzerFlow/batch_linkedln_jobs)
-<img src="images/Arch.PNG?raw=true" width=80% height=80% />
-<img src="images/DAG.PNG?raw=true" width=100% height=100% />
+[Batch ETL with Linkedin data](https://github.com/PanzerFlow/batch_linkedln_jobs)
+<img src="images/Arch.PNG?raw=true" width="100%" height="100%" />
+<img src="images/DAG.PNG?raw=true" width="100%" height="100%" />
+
 
 [Batch Data Processing with Python, Airflow and Spark (AWS EMR)](https://github.com/PanzerFlow/airflow_aws_spark)
 <img src="images/airflow_batch_architecture.png?raw=true" width="80%" height="50%" />
