@@ -5,13 +5,12 @@
 ### Batch Processing
 
 [Linkedin Jobs ETL (Batch)](https://github.com/PanzerFlow/batch_linkedln_jobs)
-<img src="https://github.com/PanzerFlow/batch_linkedln_jobs/blob/main/images/Arch.PNG" width=100% height=100%>
-<img src="https://github.com/PanzerFlow/batch_linkedln_jobs/blob/main/images/DAG.PNG" width=100% height=100%>
+<img src="images/Arch.png?raw=true" width=80% height=80%>
+<img src="images/DAG.png?raw=true" width=100% height=100%>
 
 [Batch Data Processing with Python, Airflow and Spark (AWS EMR)](https://github.com/PanzerFlow/airflow_aws_spark)
 <img src="images/airflow_batch_architecture.png?raw=true" width="80%" height="50%" />
 <img src="images/airflow_dag.png?raw=true" width="100%" height="100%" />
-
 
 ---
 
@@ -20,7 +19,7 @@
 ### Serverless Compute
 
 [Using AWS Lambda for API data extraction](https://github.com/PanzerFlow/aws_lambda_reddit_api)
-<img src="https://github.com/PanzerFlow/aws_lambda_reddit_api/blob/main/img/Lambda.PNG" width="80%" height="50%" />
+<img src="images/Lambda.png?raw=true" width="80%" height="50%" />
 
 ---
 
