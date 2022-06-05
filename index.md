@@ -2,19 +2,25 @@
 
 ---
 
-### Data Engineering on AWS
+### Batch Processing
+
+[Linkedin Jobs ETL (Batch)](https://github.com/PanzerFlow/batch_linkedln_jobs)
+<img src="https://github.com/PanzerFlow/batch_linkedln_jobs/blob/main/images/Arch.PNG" width=80% height=50%>
+<img src="https://github.com/PanzerFlow/batch_linkedln_jobs/blob/main/images/DAG.PNG" width=100% height=100%>
 
 [Batch Data Processing with Python, Airflow and Spark (AWS EMR)](https://github.com/PanzerFlow/airflow_aws_spark)
 <img src="images/airflow_batch_architecture.png?raw=true" width="80%" height="50%" />
-<img src="images/airflow_dag.png?raw=true" width="80%" height="50%" />
+<img src="images/airflow_dag.png?raw=true" width="100%" height="100%" />
+
 
 ---
 
 ---
 
-### Data Engineering on Azure
+### Serverless Compute
 
-[In Development](/sample_page)
+[Reddit ETL Pipeline](https://github.com/PanzerFlow/Reddit-API-Pipeline)
+<img src="https://github.com/PanzerFlow/Reddit-API-Pipeline/blob/master/images/process.png" width="80%" height="50%" />
 
 ---
 
